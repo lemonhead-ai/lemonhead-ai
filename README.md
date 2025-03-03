@@ -29,30 +29,8 @@ Currently Working on my final year project👨🏼‍🎓 Studying computer scie
 
 
 ### **📊 GitHub Stats & Contributions**
-<div align="center"> 
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?lemonhead-ai&show_icons=true&theme=darcula&hide_border=true&bg_color=1F1F1F&title_color=BB86FC&icon_color=BB86FC&text_color=FFFFFF" alt="GitHub Stats" width="45%"/>
-
 
 ### **🚀 Projects**
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <!-- Sentisafe -->
-        <h3>Sentisafe</h3>
-        <p>A personal safety application built with Dart.</p>
-        <img src="https://github.com/yourusername/sentisafe/blob/main/preview.gif?raw=true" alt="Sentisafe Preview" width="100%"/>
-      </td>
-      <td>
-        <!-- Beta -->
-        <h3>Beta</h3>
-        <p>A manufacturing management system.</p>
-        <img src="https://github.com/yourusername/beta/blob/main/preview.gif?raw=true" alt="Beta Preview" width="100%"/>
-      </td>
-    </tr>
-  </table>
-</div>
 
 ### **💻 Python Code Snippet**
 ```python
