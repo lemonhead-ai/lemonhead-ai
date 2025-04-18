@@ -1,7 +1,7 @@
 
 <img src="download.jpg" alt="GitHub Banner" width="100%" />
 
-# Hello World!, I'm Martin, a Kenyan Developer 👋🏼:
+# Hello World!, I'm Martin, a Full-Stack Developer 👋🏼:
 Currently Working on my final year project👨🏼‍🎓 Studying computer science at Kisii University<br>👨🏼‍💻Welcome to my GitHub profile! Feel free to explore my projects and contributions.<br> I'm currently learning **Framer** to build interactive and responsive websites. Excited to share my progress soon!
 
 <picture>
