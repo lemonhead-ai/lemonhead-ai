@@ -2,7 +2,7 @@
 <img src="download.jpg" alt="GitHub Banner" width="100%" />
 
 # Hello World!, I'm Martin, a Full-Stack Developer 👋🏼:
-Currently Working on my final year project👨🏼‍🎓 Studying computer science at Kisii University<br>👨🏼‍💻Welcome to my GitHub profile! Feel free to explore my projects and contributions.<br> I'm currently learning **Framer** to build interactive and responsive websites. Excited to share my progress soon!
+Currently Working on my personalized book reading app, ReadRift👨🏼‍🎓 Studying computer science at Kisii University<br>👨🏼‍💻Welcome to my GitHub profile! Feel free to explore my projects and contributions.<br> I'm currently learning **Framer** to build interactive and responsive websites. Excited to share my progress soon!
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lemonhead-ai/lemonhead-ai/output/github-snake-dark.svg" />
