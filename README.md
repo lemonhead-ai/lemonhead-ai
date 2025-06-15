@@ -1,8 +1,20 @@
 <div align="center">
   
-# 🚀 Martin Mwai | Full-Stack Developer & Computer Scientist
+# Martin Mwai | Full-Stack Developer & Computer Scientist
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D8FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Welcome+to+my+Digital+Universe+%F0%9F%8C%8C;Building+Tomorrow's+Solutions+Today+%F0%9F%92%A1;Full-Stack+Developer+%7C+Problem+Solver+%7C+Tech+Enthusiast" alt="Typing SVG" />
+
+<div align="center">
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lemonhead-ai/lemonhead-ai/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lemonhead-ai/lemonhead-ai/output/github-snake.svg" />
+  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/lemonhead-ai/lemonhead-ai/output/github-snake.svg" />
+</picture>
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -69,18 +81,6 @@ const martinMwai = {
 
 </div>
 
-<div align="center">
-
-## 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lemonhead-ai/lemonhead-ai/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lemonhead-ai/lemonhead-ai/output/github-snake.svg" />
-  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/lemonhead-ai/lemonhead-ai/output/github-snake.svg" />
-</picture>
-
-</div>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🚀 Featured Projects
@@ -88,7 +88,7 @@ const martinMwai = {
 <div align="center">
 
 [![ReadRift](https://github-readme-stats.vercel.app/api/pin/?username=lemonhead-ai&repo=readrift&theme=tokyonight&hide_border=true)](https://github.com/lemonhead-ai/readrift)
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=lemonhead-ai&repo=portfolio&theme=tokyonight&hide_border=true)](https://github.com/lemonhead-ai/portfolio)
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=lemonhead-ai&repo=costing-analysis&theme=tokyonight&hide_border=true)](https://github.com/lemonhead-ai/costing-analysis)
 
 </div>
 
@@ -116,7 +116,7 @@ const martinMwai = {
 
 </div>
 
-<div align="center">
+<div align="left">
 
 ## 💡 Fun Code Snippet
 
@@ -158,12 +158,12 @@ me.say_hi()
 
 ## 🎯 Current Goals for 2025
 
-- 🚀 Launch ReadRift to 10K+ users
+- 🚀 Launch ReadRift to users
 - 📱 Master advanced Flutter animations
 - 🤖 Deep dive into AI/ML integration
 - 🌟 Contribute to 5+ open source projects
-- 📝 Write technical blogs to share knowledge
-- 🎓 Complete Computer Science degree with honors
+- 📝 Write technical blogs.
+- 🎓 Complete Computer Science degree.
 
 </div>
 
