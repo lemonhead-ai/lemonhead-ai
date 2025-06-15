@@ -1,4 +1,4 @@
-<img src="https://images.unsplash.com/photo-1516321318423-f06f85e165b8?ixlib=rb-4.0.3&auto=format&fit=crop&w=1500&q=80" alt="GitHub Banner" width="100%" />
+<img src="(https://images.pexels.com/photos/1181244/pexels-photo-1181244.jpeg" alt="GitHub Banner" width="100%" />
 
 # Hello World!, I'm Martin, a Full-Stack Developer 👋🏼
 ![Profile Views](https://komarev.com/ghpvc/?username=lemonhead-ai&color=green&style=flat)
@@ -25,7 +25,7 @@ I'm learning **Framer** to build interactive, responsive websites. Stay tuned fo
   <a target="_blank" href="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="42" height="42" /></a>
   <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42" /></a>
   <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="42" height="42" /></a>
-  <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="42" height="42" /></a>
+  <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="42" height="42" /></a>
 </p>
 
 ## 📊 GitHub Stats & Contributions
