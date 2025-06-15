@@ -1,20 +1,9 @@
 <div align="center">
   
-# Martin Mwai | Full-Stack Developer & Computer Scientist
+## Martin Mwai | Full-Stack Developer & Computer Scientist
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D8FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Welcome+to+my+Digital+Universe+%F0%9F%8C%8C;Building+Tomorrow's+Solutions+Today+%F0%9F%92%A1;Full-Stack+Developer+%7C+Problem+Solver+%7C+Tech+Enthusiast" alt="Typing SVG" />
 
-<div align="center">
-
-## 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lemonhead-ai/lemonhead-ai/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lemonhead-ai/lemonhead-ai/output/github-snake.svg" />
-  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/lemonhead-ai/lemonhead-ai/output/github-snake.svg" />
-</picture>
-
-</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -25,6 +14,15 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=lemonhead-ai&label=Profile%20Views&color=0891b2&style=for-the-badge)](https://github.com/lemonhead-ai)
 [![GitHub followers](https://img.shields.io/github/followers/lemonhead-ai?label=Followers&style=for-the-badge&color=00D8FF)](https://github.com/lemonhead-ai?tab=followers)
 [![GitHub Stars](https://img.shields.io/github/stars/lemonhead-ai?label=Stars&style=for-the-badge&color=ffc107)](https://github.com/lemonhead-ai)
+
+</div>
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lemonhead-ai/lemonhead-ai/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lemonhead-ai/lemonhead-ai/output/github-snake.svg" />
+  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/lemonhead-ai/lemonhead-ai/output/github-snake.svg" />
+</picture>
 
 </div>
 
