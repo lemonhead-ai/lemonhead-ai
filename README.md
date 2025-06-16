@@ -2,11 +2,10 @@
   
 ## Martin Mwai ¤ Full-Stack Developer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Satoshi+Code&weight=600&size=28&duration=4000&pause=1000&color=00D8FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Welcome+to+my+Universe+%F0%9F%8C%8C;Building+Tomorrow's+Solutions+Today+%F0%9F%92%A1;" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Satoshi+Code&weight=600&size=28&duration=4000&pause=1000&color=00D8FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Welcome+to+my+Universe+; Building+Tomorrow's+Solutions+Today;" alt="Typing SVG" />
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 </div>
 
 <div align="center">
@@ -69,7 +68,7 @@ const martinMwai = {
 
 <div align="center">
 
-## 📊 GitHub Analytics
+## Analytics
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=lemonhead-ai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=lemonhead-ai&theme=tokyonight&hide_border=true" />
@@ -81,7 +80,7 @@ const martinMwai = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <div align="center">
 
@@ -90,19 +89,18 @@ const martinMwai = {
 
 </div>
 
-### 🎯 Current Focus: ReadRift 📚
-> A revolutionary book reading app that combines AI-powered recommendations with social reading features. Built with Flutter, Firebase, and cutting-edge ML algorithms.
+###  Current Focus: ReadRift
+> A revolutionary book reading app that combines AI-powered recommendations with social reading features. Built with Flutter, Firebase.
 
 **Key Features:**
-- 🤖 AI-powered book recommendations
-- 📈 Reading progress tracking
-- 👥 Social reading communities
-- 🎯 Personalized reading goals
-- 📊 Advanced analytics dashboard
+- Dynamic book recommendations
+- Reading progress tracking
+- Social reading communities
+- Personalized reading stats
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🌐 Let's Connect & Collaborate
+## Let's Connect & Collaborate.🌐
 
 <div align="center">
 
@@ -116,7 +114,7 @@ const martinMwai = {
 
 <div align="left">
 
-## 💡 Fun Code Snippet
+## Fun Code Snippet
 
 ```python
 class Developer:
@@ -142,33 +140,34 @@ me.say_hi()
 
 </div>
 <div align="center">
-🎵 Currently Vibing To
-Show Image
+Currently Vibing To
+
+
+in spotify
 🎧 Music fuels my coding sessions!
 </div>
 <div align="center">
 
 
-## ☕ Support My Journey
+### ☕ Support My Journey
 
 <a href="https://buymeacoffee.com/elevens" target="_blank">
 <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" >
 </a>
 
-**"Great code is powered by great coffee ☕"**
+**"Great code is powered by a sip of coffee ☕"**
 
 </div>
 
 <div align="center">
 
-## 🎯 Current Goals for 2025
+### Current Goals for 2025
 
-- 🚀 Launch ReadRift to users
-- 📱 Master advanced Flutter animations
-- 🤖 Deep dive into AI/ML integration
-- 🌟 Contribute to 5+ open source projects
-- 📝 Write technical blogs.
-- 🎓 Complete Computer Science degree.
+- Launch ReadRift
+- Master advanced Flutter animations
+- Contribute to 5+ open source projects
+- Write technical blogs.
+- Complete Computer Science degree.
 
 </div>
 
@@ -176,7 +175,7 @@ Show Image
   
 ---
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00D8FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+%F0%9F%9A%80;Let's+build+the+future+together!+%F0%9F%8C%9F;Always+ready+for+new+challenges!+%F0%9F%92%AA" alt="Footer Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Satoshi+Code&size=18&duration=3000&pause=1000&color=00D8FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+%F0%9F%9A%80;Let's+build+the+future+together!+%F0%9F%8C%9F;Always+ready+for+new+challenges!+%F0%9F%92%AA" alt="Footer Typing SVG" />
 
 **Happy Coding! 🎉**
 
