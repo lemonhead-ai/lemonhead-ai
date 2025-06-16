@@ -8,7 +8,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-<div align="center">
+<div align="right">
   
 [![Profile Views](https://komarev.com/ghpvc/?username=lemonhead-ai&label=Profile%20Views&color=0891b2&style=for-the-badge)](https://github.com/lemonhead-ai)
 [![GitHub followers](https://img.shields.io/github/followers/lemonhead-ai?label=Followers&style=for-the-badge&color=00D8FF)](https://github.com/lemonhead-ai?tab=followers)
@@ -25,7 +25,7 @@
 
 </div>
 
-## 🎯 About Me
+## About Me
 
 ```typescript
 const martinMwai = {
@@ -39,7 +39,7 @@ const martinMwai = {
 };
 ```
 
-<div align="center">
+<div align="left">
 
 ## 🛠️ Tech Arsenal
 
@@ -66,7 +66,7 @@ const martinMwai = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<div align="center">
+<div align="right">
 
 ## Analytics
 
@@ -82,7 +82,7 @@ const martinMwai = {
 
 ## Featured Projects
 
-<div align="center">
+<div align="left">
 
 [![ReadRift](https://github-readme-stats.vercel.app/api/pin/?username=lemonhead-ai&repo=readrift&theme=tokyonight&hide_border=true)](https://github.com/lemonhead-ai/readrift)
 [![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=lemonhead-ai&repo=costing-analysis&theme=tokyonight&hide_border=true)](https://github.com/lemonhead-ai/costing-analysis)
@@ -146,8 +146,8 @@ Currently Vibing To
 in spotify
 🎧 Music fuels my coding sessions!
 </div>
-<div align="center">
 
+<div align="center">
 
 ### ☕ Support My Journey
 
@@ -159,7 +159,7 @@ in spotify
 
 </div>
 
-<div align="center">
+<div align="right">
 
 ### Current Goals for 2025
 
