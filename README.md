@@ -140,7 +140,14 @@ me.say_hi()
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+</div>
 <div align="center">
+🎵 Currently Vibing To
+Show Image
+🎧 Music fuels my coding sessions!
+</div>
+<div align="center">
+
 
 ## ☕ Support My Journey
 
