@@ -2,7 +2,7 @@
   
 ## Martin Mwai ¤ Full-Stack Developer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Satoshi+Code&weight=600&size=28&duration=4000&pause=1000&color=00D8FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Welcome+to+my+Universe+; Building+Tomorrow's+Solutions+Today;" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Satoshi+Code&weight=600&size=28&duration=4000&pause=1000&color=00D8FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Welcome+to+my+Universe; Building+Tomorrow's+Solutions+Today;" alt="Typing SVG" />
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
