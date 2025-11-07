@@ -31,7 +31,7 @@
 const martinMwai = {
     currentFocus: "Building ReadRift - A Revolutionary Book Reading Experience 📚",
     education: "Computer Science @ Kisii University 🎓",
-    currentlyLearning: ["Framer Motion", "Next.js 14", "AI/ML Integration"],
+    currentlyLearning: ["Framer Motion", "Next.js 15", "AI/ML Integration"],
     passions: ["Clean Code", "User Experience", "Open Source"],
     motto: "Code with Purpose, Build with Passion 🔥",
     availableForHire: true,
