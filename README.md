@@ -161,13 +161,13 @@ in spotify
 
 <div align="right">
 
-### Current Goals for 2025
+### Current Goals for 2026
 
-- Launch ReadRift
+- Launch an App
 - Master advanced Flutter animations
 - Contribute to 5+ open source projects
-- Write technical blogs.
-- Complete Computer Science degree.
+- leran more on react framework
+- look for a job
 
 </div>
 
